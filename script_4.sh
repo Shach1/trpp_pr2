@@ -5,8 +5,8 @@ for file in $mydir
 do
 	if [ -d $file ]
 	then
-	echo "The $file is directory"
+		echo "$file - это директория"
 	else
-	echo  "The $file is file"
+		echo  "$file - это файл"
 	fi
 done
