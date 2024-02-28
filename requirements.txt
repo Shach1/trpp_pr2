@@ -1,5 +1,5 @@
 django
-ckeditor
-tinymce
-simple_history
-dotenv
+django-ckeditor-5
+django-tinymce4
+django-simple-history
+django-dotenv
