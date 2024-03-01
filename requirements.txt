@@ -1,5 +1,5 @@
 django
-django-ckeditor-5
-django-tinymce4
+django-ckeditor
+django-tinymce
 django-simple-history
 django-dotenv
