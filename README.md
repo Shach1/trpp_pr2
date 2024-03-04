@@ -61,6 +61,8 @@
 
 
   Затем необходимо запустить проект из виртуального окружения при помощи следующих команд:
-  > python manage.py makemigrations
-  > python manage.py migrate
-  > python manage.py runserver
+```
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
