@@ -14,9 +14,8 @@ curl https://raw.githubusercontent.com/Shach1/trpp_pr2/master/requirements.txt -
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
-deactivate
 
 	#Запуск программы
-#python3 manage.py makemigrations
-#python3 manage.py migrate
-#python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
